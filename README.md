@@ -19,7 +19,7 @@ Accurately defines value length for columns.
 Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 
-<img width="644" alt="q1 - chllenge9" src="url">
+<img alt="q1 - chllenge9" src="https://raw.githubusercontent.com/FloBeep/sql-challenge/main/ReadMe%20Images/Q1.png">
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
 
