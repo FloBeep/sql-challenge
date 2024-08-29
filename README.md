@@ -24,7 +24,7 @@ It was required to do follow the steps below:
 
 The resulting code of the data Engineering is below:
 
-<img alt="ENG" src="link">
+<img alt="ENG" src="https://raw.githubusercontent.com/FloBeep/sql-challenge/main/ReadMe%20Files/Engineering%20Code.png">
 
 Data Analysis
 
