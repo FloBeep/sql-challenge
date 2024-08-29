@@ -5,7 +5,7 @@ REQUIREMENTS:
 Data Modeling
 Entity Relationship Diagram is included or table schemas provided for all tables.
 
-<img width="317" alt="ERD" src="url">
+<img width="1108" alt="ERD" src="https://raw.githubusercontent.com/FloBeep/sql-challenge/main/ReadMe%20Images/EmployeesSQL_ERD.png">
 
 Data Engineering
 All required columns are defined for each table.
